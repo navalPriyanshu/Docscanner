@@ -1,0 +1,3 @@
+package com.sample.edgedetection
+
+class EdgeDetectionPlugin
